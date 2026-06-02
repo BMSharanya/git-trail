@@ -8,4 +8,3 @@ print("pushing practice")
 print("Learning tags")
 a = 10
 print("pylint")
-
